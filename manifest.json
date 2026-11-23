@@ -1,0 +1,9 @@
+{
+  "name": "Riley's Bank",
+  "short_name": "Riley's Bank",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#101010"
+}
